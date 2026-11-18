@@ -1,1 +1,1 @@
-[![Marc Gallant's GitHub stats](https://vercel.app)](https://github.com/marcgallant/github-readme-stats)
+[![marcgallant's GitHub stats](https://github-stats-extended.vercel.app/api?username=marcgallant)](https://github.com/stats-organization/github-stats-extended)
